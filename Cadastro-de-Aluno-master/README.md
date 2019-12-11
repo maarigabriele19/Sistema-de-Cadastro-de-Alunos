@@ -1,2 +1,2 @@
-# Cadastro-de-Aluno
-trabalho de tecnicas
+# Cadastro-de-Alunos
+Projeto final da disciplina de Técnicas de programação da Universidade Federal do Ceará, UFC
